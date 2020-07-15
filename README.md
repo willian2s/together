@@ -54,4 +54,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<h5 align="center">Feito com ♥ by Willian Silva</h5>
+<h5 align="center">Feito com ♥ by Willian Silva with Rocketseat</h5>
