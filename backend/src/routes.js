@@ -1,16 +1,10 @@
 const express = require('express');
 
+const OngController = require('./controllers/OngController');
+
 const routes = express.Router();
 
-routes.post('/users', (req, res) => {
-  const body = req.body;
-
-  console.log(body);
-
-  return res.json({
-    evento: 'Semana Omnistack 11.0',
-    aluno: 'Fulano Silva'
-  });
-});
+routes.get('/ongs', OngController.index);
+routes.post('/ongs', OngController.create);
 
 module.exports = routes;
