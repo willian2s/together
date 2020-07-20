@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpileOnly --ignore-watch node_modules --no-notify src/index.ts"
+    "start": "ts-node-dev -r -tsconfig-paths/register --respawn --transpileOnly --ignore-watch node_modules --no-notify src/index.ts"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +22,7 @@
     "eslint-plugin-import": "^2.22.0",
     "nodemon": "^2.0.4",
     "ts-node-dev": "^1.0.0-pre.52",
+    "tsconfig-paths": "^3.9.0",
     "typescript": "^3.9.7"
   }
 }
