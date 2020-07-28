@@ -7,7 +7,7 @@ import SessionController from '@controllers/SessionController'
 
 const routes = Router()
 
-routes.post('/sessios', SessionController.create)
+routes.post('/sessions', SessionController.create)
 
 routes.get('/ongs', OngController.index)
 routes.post('/ongs', OngController.create)
