@@ -8,9 +8,7 @@
  
  <img src="https://img.shields.io/github/issues/willian2s/together?color=217EEB&&labelColor=000000" alt="Issues" />
  <img src="https://img.shields.io/github/forks/willian2s/together?color=217EEB&&labelColor=000000" alt="Forks" />
- <img src="https://img.shields.io/github/stars/willian2s/together?color=217EEB&&labelColor=000000" alt="Stars" />
- <img src="https://img.shields.io/github/stars/willian2s/together?color=217EEB&&labelColor=000000" alt="Stars" />
- 
+ <img src="https://img.shields.io/github/stars/willian2s/together?color=217EEB&&labelColor=000000" alt="Stars" /> 
 </p>
 
 <p align="center">
