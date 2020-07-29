@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#SejaUmHeroi" src=".github/bethehero.svg" width="200px" />
+    <img alt="Together" title="#JuntosSomosMais" src=".github/Together.svg" width="400px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="Together" src=".github/Together.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+A Together é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/Bf78U3lkYmVILFDfQkK71Q/Be-The-Hero?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/Bf78U3lkYmVILFDfQkK71Q/Together?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 Layout desenvolvido pela equipe da Rocketseat.
 
 ## 🤔 Como contribuir
@@ -53,6 +53,10 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+## :metal: Considerações Finais
+
+Este projeto só exite por conta da iniciativa da [Rocketseat](https://github.com/Rocketseat), em desenvolver, treinar e ensinar as melhores técnologias e a nos inspirar a ser mais. 
+
 ---
 
-<h5 align="center">Feito com ♥ by Willian Silva with Rocketseat during Omnistack Week 11.0</h5>
+<h5 align="center">Feito com ♥ by Willian Silva</h5>
