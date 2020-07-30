@@ -38,6 +38,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Together é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
+## :file_folder: Repositórios
+
+Anteriormente este projeto se tratava de um monorep, porem pordificuldades técnicas tive que separa-lo em repositórios individuais. Abaixo se enconta a lista dos reposiórios:
+
+- [:computer: WEB](https://github.com/willian2s/together-web)
+- [:gear: API](https://github.com/willian2s/together-api)
+- [:iphone:&nbsp; MOBILE](https://github.com/willian2s/together-mobile)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/Bf78U3lkYmVILFDfQkK71Q/Together?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
