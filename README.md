@@ -30,7 +30,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [Next.JS](https://nextjs.org/)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
@@ -42,7 +42,7 @@ A Together é um projeto que visa conectar pessoas que desejam fazer contribuiç
 
 Anteriormente este projeto se tratava de um monorep, porem pordificuldades técnicas tive que separa-lo em repositórios individuais. Abaixo se enconta a lista dos reposiórios:
 
-- [:computer: WEB](https://github.com/willian2s/together-web)
+- [:computer: WEB](https://github.com/willian2s/together-web-v2)
 - [:gear: API](https://github.com/willian2s/together-api)
 - [:iphone:&nbsp; MOBILE](https://github.com/willian2s/together-mobile)
 
