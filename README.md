@@ -44,7 +44,7 @@ Anteriormente este projeto se tratava de um monorep, porem pordificuldades técn
 
 - [:computer: WEB](https://github.com/willian2s/together-web-v2)
 - [:gear: API](https://github.com/willian2s/together-api)
-- [:iphone:&nbsp; MOBILE](https://github.com/willian2s/together-mobile)
+- [:iphone:&nbsp; MOBILE (Em andamento)](https://github.com/willian2s/together-mobile)
 
 ## 🔖 Layout
 
